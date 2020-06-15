@@ -13,18 +13,18 @@ The user must add the repository following the pattern ```author/repositoryname`
 
 Multiple repositories can be added:
 
-![alt text][logo]
+![alt text][landingPage]
 
-[logo]: https://github.com/larissarodr/github-explorer/blob/master/src/assets/landingPage.PNG "Github Explorer"
+[landingPage]: https://github.com/larissarodr/github-explorer/blob/master/src/assets/landingPage.PNG "Github Explorer"
 
 ## Repository Details
 
 When clicking one of the repositories added in the landing page, a new page displaying information about the repository is displayed.
 All open issues are displayed:
 
-![alt text][logo]
+![alt text][detailsPage]
 
-[logo]: https://github.com/larissarodr/github-explorer/blob/master/src/assets/detailsPage.PNG "Github Explorer"
+[detailsPage]: https://github.com/larissarodr/github-explorer/blob/master/src/assets/detailsPage.PNG "Github Explorer"
 
 ## Starting and building the app
 
